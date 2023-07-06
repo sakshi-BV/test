@@ -1,4 +1,5 @@
-import base64
+import base6
+"added by ashish"
   
 sample_string = "p"
 sample_string_bytes = sample_string.encode("ascii")
